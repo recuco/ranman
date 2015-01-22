@@ -57,7 +57,7 @@ iframe {
 
 /*_______________ COMUNES ____________________*/
 /* line 60, ../scss/estilos.scss */
-nav, footer, #contenido, .columna1, .columna2, .columna1 h2, .contacto, form, .campos, .sub, .sub li, .gal_videos, .gal_videos li, .gal_videos li span, .desarrollos, .desarrollo .modelos {
+nav, footer, #contenido, .columna1, .columna2, .columna1 h2, .contacto, form, .campos, .sub, .sub li, .gal_videos, .gal_videos li, .gal_videos li span, .desarrollos, .desarrollo .modelos, .amenidades {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -335,134 +335,151 @@ nav menu #menu #contacto {
 #contenido .columna1 .gal_videos li img {
   width: 100%;
 }
-/* line 340, ../scss/estilos.scss */
+/* line 342, ../scss/estilos.scss */
+#contenido .desarrollos .amenidades li {
+  text-align: center;
+  width: 33%;
+  display: inline-block;
+  margin-bottom: 25px;
+}
+/* line 348, ../scss/estilos.scss */
+#contenido .desarrollos .amenidades li .icon {
+  display: block;
+  width: 50px;
+  margin: 0 auto 10px auto;
+}
+/* line 353, ../scss/estilos.scss */
+#contenido .desarrollos .amenidades li .icon img {
+  width: 100%;
+}
+/* line 361, ../scss/estilos.scss */
 #contenido .desarrollos h1 {
   font-weight: 500;
   font-size: 4em;
 }
-/* line 344, ../scss/estilos.scss */
+/* line 365, ../scss/estilos.scss */
 #contenido .desarrollos h1 span {
   font-size: 0.5em;
 }
-/* line 349, ../scss/estilos.scss */
+/* line 370, ../scss/estilos.scss */
 #contenido .desarrollos .modelos {
   margin: 40px 0;
 }
-/* line 353, ../scss/estilos.scss */
+/* line 374, ../scss/estilos.scss */
 #contenido .desarrollos .modelos li .image_house, #contenido .desarrollos .modelos li .info_models {
   display: inline-block;
   vertical-align: top;
 }
-/* line 358, ../scss/estilos.scss */
+/* line 379, ../scss/estilos.scss */
 #contenido .desarrollos .modelos li .image_house {
   width: 30%;
 }
-/* line 361, ../scss/estilos.scss */
+/* line 382, ../scss/estilos.scss */
 #contenido .desarrollos .modelos li .image_house img {
   width: 100%;
 }
-/* line 366, ../scss/estilos.scss */
+/* line 387, ../scss/estilos.scss */
 #contenido .desarrollos .modelos li .info_models {
   width: 70%;
 }
-/* line 369, ../scss/estilos.scss */
+/* line 390, ../scss/estilos.scss */
 #contenido .desarrollos .modelos li .info_models h3 {
   font-size: 24px;
   border-bottom: 3px solid #5d5d5d;
   margin: 0;
 }
-/* line 377, ../scss/estilos.scss */
+/* line 398, ../scss/estilos.scss */
 #contenido .desarrollos .modelos li .info_models table .especific {
   font-weight: 700;
 }
-/* line 381, ../scss/estilos.scss */
+/* line 402, ../scss/estilos.scss */
 #contenido .desarrollos .modelos li .info_models table td {
   padding: 5px 15px;
 }
-/* line 390, ../scss/estilos.scss */
+/* line 411, ../scss/estilos.scss */
 #contenido .columna2 {
   width: 27%;
 }
-/* line 393, ../scss/estilos.scss */
+/* line 414, ../scss/estilos.scss */
 #contenido .columna2 .ficha {
   margin-bottom: 30px;
 }
-/* line 396, ../scss/estilos.scss */
+/* line 417, ../scss/estilos.scss */
 #contenido .columna2 .ficha ul {
   font-size: 14px;
   margin: 0;
   padding: 0;
 }
-/* line 401, ../scss/estilos.scss */
+/* line 422, ../scss/estilos.scss */
 #contenido .columna2 .ficha ul li {
   border-bottom: 1px solid #5d5d5d;
   padding: 15px 0;
 }
-/* line 405, ../scss/estilos.scss */
+/* line 426, ../scss/estilos.scss */
 #contenido .columna2 .ficha ul li span {
   display: inline-block;
 }
-/* line 409, ../scss/estilos.scss */
+/* line 430, ../scss/estilos.scss */
 #contenido .columna2 .ficha ul li .plus {
   font-size: 22px;
 }
-/* line 413, ../scss/estilos.scss */
+/* line 434, ../scss/estilos.scss */
 #contenido .columna2 .ficha ul li .titulo {
   width: 90px;
   font-weight: 600;
 }
-/* line 418, ../scss/estilos.scss */
+/* line 439, ../scss/estilos.scss */
 #contenido .columna2 .ficha ul li .destacar {
   font-size: 24px;
 }
-/* line 422, ../scss/estilos.scss */
+/* line 443, ../scss/estilos.scss */
 #contenido .columna2 .ficha ul li .detalle {
   font-size: 18px;
   font-weight: 700;
 }
-/* line 430, ../scss/estilos.scss */
+/* line 451, ../scss/estilos.scss */
 #contenido .columna2 .contacto {
   width: 100%;
   background: #f0f0f0;
   padding: 20px;
 }
-/* line 435, ../scss/estilos.scss */
+/* line 456, ../scss/estilos.scss */
 #contenido .columna2 .contacto h2 {
   font-family: 'Open Sans', sans-serif;
   text-align: center;
   margin: 0 0 20px 0;
   padding: 0;
 }
-/* line 442, ../scss/estilos.scss */
+/* line 463, ../scss/estilos.scss */
 #contenido .columna2 .contacto .formulario {
   background: #fff;
 }
-/* line 445, ../scss/estilos.scss */
+/* line 466, ../scss/estilos.scss */
 #contenido .columna2 .contacto .formulario input, #contenido .columna2 .contacto .formulario textarea {
   border: none;
   padding: 5px;
   font-size: 14px;
   width: 75%;
 }
-/* line 451, ../scss/estilos.scss */
+/* line 472, ../scss/estilos.scss */
 #contenido .columna2 .contacto .formulario input:focus, #contenido .columna2 .contacto .formulario textarea:focus {
   outline: 0px;
 }
-/* line 456, ../scss/estilos.scss */
+/* line 477, ../scss/estilos.scss */
 #contenido .columna2 .contacto .formulario .politica {
   border-bottom: none !important;
   padding: 35px 0 !important;
 }
-/* line 460, ../scss/estilos.scss */
+/* line 481, ../scss/estilos.scss */
 #contenido .columna2 .contacto .formulario .politica input {
   width: auto !important;
   margin-right: 10px;
 }
-/* line 466, ../scss/estilos.scss */
+/* line 487, ../scss/estilos.scss */
 #contenido .columna2 .contacto .formulario .envio {
   border-bottom: none !important;
 }
-/* line 469, ../scss/estilos.scss */
+/* line 490, ../scss/estilos.scss */
 #contenido .columna2 .contacto .formulario .envio .btn_enviar {
   border: none;
   background: #3578aa;
@@ -471,14 +488,14 @@ nav menu #menu #contacto {
   margin: 0 auto;
   display: block;
 }
-/* line 479, ../scss/estilos.scss */
+/* line 500, ../scss/estilos.scss */
 #contenido .columna2 .contacto .formulario .campos {
   padding: 10px 0;
   width: 90%;
   margin: 0 auto;
   border-bottom: 1px solid #9a9a9a;
 }
-/* line 485, ../scss/estilos.scss */
+/* line 506, ../scss/estilos.scss */
 #contenido .columna2 .contacto .formulario .campos i {
   padding: 0 10px;
   font-family: 'icomoonregular';
@@ -488,34 +505,34 @@ nav menu #menu #contacto {
   font-style: normal;
 }
 
-/* line 499, ../scss/estilos.scss */
+/* line 520, ../scss/estilos.scss */
 .contenido_des {
   max-width: 1200px !important;
 }
 
-/* line 503, ../scss/estilos.scss */
+/* line 524, ../scss/estilos.scss */
 footer {
   background: #0a1f33;
   padding: 10px;
   width: 100%;
 }
-/* line 508, ../scss/estilos.scss */
+/* line 529, ../scss/estilos.scss */
 footer .pie {
   max-width: 1200px;
   margin: 0 auto;
 }
-/* line 512, ../scss/estilos.scss */
+/* line 533, ../scss/estilos.scss */
 footer .pie ul {
   padding: 0;
   margin: 0;
   list-style: none;
 }
-/* line 517, ../scss/estilos.scss */
+/* line 538, ../scss/estilos.scss */
 footer .pie ul li {
   display: inline-block;
   vertical-align: top;
 }
-/* line 521, ../scss/estilos.scss */
+/* line 542, ../scss/estilos.scss */
 footer .pie ul li a {
   color: #fff;
   text-decoration: none;
@@ -525,57 +542,57 @@ footer .pie ul li a {
 }
 
 @-moz-keyframes animacion {
-  /* line 534, ../scss/estilos.scss */
+  /* line 555, ../scss/estilos.scss */
   0% {
     opacity: 0;
   }
 
-  /* line 538, ../scss/estilos.scss */
+  /* line 559, ../scss/estilos.scss */
   50% {
     opacity: 1;
   }
 
-  /* line 543, ../scss/estilos.scss */
+  /* line 564, ../scss/estilos.scss */
   100% {
     opacity: 0;
   }
 }
 
 @-webkit-keyframes animacion {
-  /* line 549, ../scss/estilos.scss */
+  /* line 570, ../scss/estilos.scss */
   0% {
     opacity: 0;
   }
 
-  /* line 553, ../scss/estilos.scss */
+  /* line 574, ../scss/estilos.scss */
   50% {
     opacity: 1;
   }
 
-  /* line 558, ../scss/estilos.scss */
+  /* line 579, ../scss/estilos.scss */
   100% {
     opacity: 0;
   }
 }
 
 @keyframes animacion {
-  /* line 565, ../scss/estilos.scss */
+  /* line 586, ../scss/estilos.scss */
   0% {
     opacity: 0;
   }
 
-  /* line 569, ../scss/estilos.scss */
+  /* line 590, ../scss/estilos.scss */
   50% {
     opacity: 1;
   }
 
-  /* line 574, ../scss/estilos.scss */
+  /* line 595, ../scss/estilos.scss */
   100% {
     opacity: 0;
   }
 }
 
-/* line 580, ../scss/estilos.scss */
+/* line 601, ../scss/estilos.scss */
 .parpadear {
   -webkit-animation: animacion 4s infinite;
   -moz-animation: animacion 4s infinite;
@@ -584,18 +601,18 @@ footer .pie ul li a {
 
 /*_______________ 1400 ____________________*/
 @media screen and (max-width: 1400px) {
-  /* line 590, ../scss/estilos.scss */
+  /* line 611, ../scss/estilos.scss */
   #logo {
     left: 20px;
     margin: 0;
   }
 
-  /* line 597, ../scss/estilos.scss */
+  /* line 618, ../scss/estilos.scss */
   nav menu .telefono {
     right: 10px;
   }
 
-  /* line 604, ../scss/estilos.scss */
+  /* line 625, ../scss/estilos.scss */
   #contenido .columna1 {
     padding: 0 30px;
   }
@@ -603,7 +620,7 @@ footer .pie ul li a {
 /*_______________ /1400 ____________________*/
 /*_______________ 1200 ____________________*/
 @media screen and (max-width: 1200px) {
-  /* line 623, ../scss/estilos.scss */
+  /* line 644, ../scss/estilos.scss */
   #contenido .columna1 .gal_videos li {
     width: 40%;
   }
@@ -611,7 +628,7 @@ footer .pie ul li a {
 /*_______________ /1200 ____________________*/
 /*_______________ 1000 ____________________*/
 @media screen and (max-width: 1000px) {
-  /* line 638, ../scss/estilos.scss */
+  /* line 659, ../scss/estilos.scss */
   .btn_m {
     display: block;
     position: absolute;
@@ -621,7 +638,7 @@ footer .pie ul li a {
     color: #fff;
     width: 80px;
   }
-  /* line 647, ../scss/estilos.scss */
+  /* line 668, ../scss/estilos.scss */
   .btn_m i {
     position: absolute;
     top: 50%;
@@ -630,72 +647,72 @@ footer .pie ul li a {
     margin: -20px 0 0 -20px;
   }
 
-  /* line 656, ../scss/estilos.scss */
+  /* line 677, ../scss/estilos.scss */
   #logo {
     width: 150px;
     left: 50%;
     margin-left: -75px;
   }
 
-  /* line 662, ../scss/estilos.scss */
+  /* line 683, ../scss/estilos.scss */
   nav {
     height: 100px;
   }
-  /* line 665, ../scss/estilos.scss */
+  /* line 686, ../scss/estilos.scss */
   nav menu {
     height: 100px;
     position: relative;
   }
-  /* line 670, ../scss/estilos.scss */
+  /* line 691, ../scss/estilos.scss */
   nav menu .telefono .grande {
     display: none;
   }
-  /* line 675, ../scss/estilos.scss */
+  /* line 696, ../scss/estilos.scss */
   nav menu #menu {
     display: none;
     position: relative;
     top: 100px;
   }
-  /* line 680, ../scss/estilos.scss */
+  /* line 701, ../scss/estilos.scss */
   nav menu #menu li {
     width: 50%;
     text-align: center;
   }
-  /* line 684, ../scss/estilos.scss */
+  /* line 705, ../scss/estilos.scss */
   nav menu #menu li a {
     color: #fff;
     text-decoration: none;
     padding: 15px 20px;
     display: block;
   }
-  /* line 692, ../scss/estilos.scss */
+  /* line 713, ../scss/estilos.scss */
   nav menu #menu #contacto {
     display: block;
   }
 
-  /* line 700, ../scss/estilos.scss */
+  /* line 721, ../scss/estilos.scss */
   #contenido .sub {
     width: 90%;
     top: 0;
   }
-  /* line 708, ../scss/estilos.scss */
+  /* line 729, ../scss/estilos.scss */
   #contenido .sub ul li a h3 {
     font-size: 18px;
   }
-  /* line 711, ../scss/estilos.scss */
+  /* line 732, ../scss/estilos.scss */
   #contenido .sub ul li a p, #contenido .sub ul li a .ver {
     display: none;
   }
-  /* line 719, ../scss/estilos.scss */
+  /* line 740, ../scss/estilos.scss */
   #contenido .columna1 {
     width: 100%;
     margin: 0;
   }
-  /* line 724, ../scss/estilos.scss */
+  /* line 745, ../scss/estilos.scss */
   #contenido .columna1 .gal_videos li {
     width: 44%;
   }
-  /* line 732, ../scss/estilos.scss */
+  /* line 753, ../scss/estilos.scss */
   #contenido .columna2 .contacto {
     display: none;
   }

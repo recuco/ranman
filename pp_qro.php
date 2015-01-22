@@ -19,12 +19,18 @@
 <section id="contenido" class="contenido_des">
 
 	<section class="columna1 desarrollos">
-		<h1>Puerta de Piedra <span>(San Luis  Potosí)</span></h1>
+		<h1>Puerta de Piedra <span>(Querétaro)</span></h1>
 		<p>Desarrollo que redefinió el mercado residencial medio en San Luis Potosí: líder en el mercado desde su lanzamiento en el 2009. Ubicado en el sur de la zona metropolitana de la ciudad de San Luis Potosí, a minutos del centro histórico y de la zona industrial más importante, garantizan comodidades a sus residentes.</p>
 
 		<ul class="amenidades">
-		</ul>
-		<p>1,013 casas en 9 privadas equipadas con alberca, terraza club, gimnasio interior y exterior, juegos infantiles, asadores, malla electrificada, circuito cerrado y vialidades de concreto hidráulico.</p>
+        <li><span class="icon"><img src="images/amenidades/mallas.png"></span><span class="txt">Malla electrificada</span></li><!--
+        --><li><span class="icon"><img src="images/amenidades/gym.png"></span><span class="txt">Gimnasio interior y exterior</span></li><!--
+        --><li><span class="icon"><img src="images/amenidades/circuito.png"></span><span class="txt">Circuito cerrado</span></li><!--
+        --><li><span class="icon"><img src="images/amenidades/vialidades.png"></span><span class="txt">Vialidades de concreto hidráulico</span></li><!--
+        --><li><span class="icon"><img src="images/amenidades/agua.png"></span><span class="txt">Alberca</span></li>
+    	</ul>
+
+		<p>1,013 casas en 9 privadas equipadas con alberca, terraza club, juegos infantiles, asadores</p>
 
 		<h2>Modelos</h2>
 

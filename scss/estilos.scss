@@ -57,7 +57,7 @@ iframe{
 }
 
 /*_______________ COMUNES ____________________*/
-nav, footer, #contenido, .columna1, .columna2, .columna1 h2, .contacto, form, .campos, .sub, .sub li, .gal_videos, .gal_videos li, .gal_videos li span, .desarrollos, .desarrollo .modelos{
+nav, footer, #contenido, .columna1, .columna2, .columna1 h2, .contacto, form, .campos, .sub, .sub li, .gal_videos, .gal_videos li, .gal_videos li span, .desarrollos, .desarrollo .modelos, .amenidades{
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
@@ -337,6 +337,27 @@ nav{
 	}
 
 	.desarrollos{
+
+		.amenidades{
+			li{
+				text-align: center;
+				width: 33%;
+				display: inline-block;
+				margin-bottom: 25px;
+
+				.icon{
+					display: block;
+					width: 50px;
+					margin: 0 auto 10px auto;
+
+					img{
+						width: 100%;
+					}
+				}
+			}
+		}
+
+
 		h1{
 			font-weight: 500;
 			font-size: 4em;
