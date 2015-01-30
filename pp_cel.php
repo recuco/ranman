@@ -4,12 +4,12 @@
 	<ul class="rslides"> 
 		<li> 
 			<div data-picture> 
-				<div data-src="images/desarrollos/pp_slp.jpg"></div> 
-				<div data-src="images/desarrollos/pp_slp.jpg" data-media="(min-width: 450px)"></div> 
-				<div data-src="images/desarrollos/pp_slp.jpg" data-media="(min-width: 960px)"></div> 
-				<div data-src="images/desarrollos/pp_slp.jpg" data-media="(min-width: 1200px)"></div> 
+				<div data-src="images/desarrollos/pp_cel.jpg"></div> 
+				<div data-src="images/desarrollos/pp_cel.jpg" data-media="(min-width: 450px)"></div> 
+				<div data-src="images/desarrollos/pp_cel.jpg" data-media="(min-width: 960px)"></div> 
+				<div data-src="images/desarrollos/pp_cel.jpg" data-media="(min-width: 1200px)"></div> 
 				<noscript> 
-					<img src="images/desarrollos/pp_slp.jpg" /> 
+					<img src="images/desarrollos/pp_cel.jpg" /> 
 				</noscript> 
 			</div> 
 		</li> 
@@ -19,8 +19,8 @@
 <section id="contenido" class="contenido_des">
 
 	<section class="columna1 desarrollos">
-		<h1>Puerta de Piedra <span>(San Luis  Potosí)</span></h1>
-		<p>Desarrollo que redefinió el mercado residencial medio en San Luis Potosí; líder en el mercado desde su lanzamiento en el 2009. Ubicado en el sur de la zona metropolitana de la ciudad de San Luis Potosí, a minutos del centro histórico y de la zona industrial más importante, garantizan comodidades a sus residentes.</p>
+		<h1>Puerta de Piedra <span>(Celaya)</span></h1>
+		<p>A dos años del lanzamiento de Puerta de Piedra S.L.P. RANMAN replica el éxito obtenido, sorprendiendo al mercado de Celaya, convirtiéndose en líder indiscutible en ventas en el sector residencial medio. Ubicado en la zona poniente de Celaya, cerca del Tec. de Monterrey en Camino a San José de Guanajuato.</p>
 
 		<ul class="amenidades">
 	        <li><span class="icon"><img src="images/amenidades/mallas.png"></span><span class="txt">Malla electrificada</span></li><!--
@@ -42,11 +42,11 @@
 					<table>
 						<tr>
 							<td class="especific">TERRENO</td>
-							<td>97.50 m2</td>
+							<td>105.30 m2</td>
 						</tr>
 						<tr>
 							<td class="especific">CONSTRUCCIÓN</td>
-							<td>85.00 m2</td>
+							<td>93.74 m2</td>
 						</tr>
 						<tr>
 							<td class="especific">FRENTE</td>
@@ -54,10 +54,10 @@
 						</tr>
 						<tr>
 							<td class="especific">FONDO</td>
-							<td>15.00 m</td>
+							<td>16.20 m</td>
 						</tr>
 					</table>
-					<span><a href="http://www.puertadepiedra.com/slp/modelos.html" target="_new">VER PLANTAS</a></span>
+					<span><a href="http://www.puertadepiedra.com/celaya/modelos.html" target="_new">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -72,11 +72,11 @@
 					<table>
 						<tr>
 							<td class="especific">TERRENO</td>
-							<td>97.50 m2</td>
+							<td>105.30 m2</td>
 						</tr>
 						<tr>
 							<td class="especific">CONSTRUCCIÓN</td>
-							<td>100.80 m2</td>
+							<td>106.73 m2</td>
 						</tr>
 						<tr>
 							<td class="especific">FRENTE</td>
@@ -84,10 +84,10 @@
 						</tr>
 						<tr>
 							<td class="especific">FONDO</td>
-							<td>15.00 m</td>
+							<td>16.20 m</td>
 						</tr>
 					</table>
-					<span><a href="http://www.puertadepiedra.com/slp/modelos.html" target="_new">VER PLANTAS</a></span>
+					<span><a href="http://www.puertadepiedra.com/celaya/modelos.html" target="_new">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -102,11 +102,11 @@
 					<table>
 						<tr>
 							<td class="especific">TERRENO</td>
-							<td>110.50 m2</td>
+							<td>105.30 m2</td>
 						</tr>
 						<tr>
 							<td class="especific">CONSTRUCCIÓN</td>
-							<td>112.90 m2</td>
+							<td>115.25 m2</td>
 						</tr>
 						<tr>
 							<td class="especific">FRENTE</td>
@@ -114,10 +114,10 @@
 						</tr>
 						<tr>
 							<td class="especific">FONDO</td>
-							<td>17.00 m</td>
+							<td>16.25 m</td>
 						</tr>
 					</table>
-					<span><a href="http://www.puertadepiedra.com/slp/modelos.html" target="_new">VER PLANTAS</a></span>
+					<span><a href="http://www.puertadepiedra.com/celaya/modelos.html" target="_new">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -132,11 +132,11 @@
 					<table>
 						<tr>
 							<td class="especific">TERRENO</td>
-							<td>110.50 m2</td>
+							<td>105.30 m2</td>
 						</tr>
 						<tr>
 							<td class="especific">CONSTRUCCIÓN</td>
-							<td>129.34 m2</td>
+							<td>138.00 m2</td>
 						</tr>
 						<tr>
 							<td class="especific">FRENTE</td>
@@ -144,10 +144,10 @@
 						</tr>
 						<tr>
 							<td class="especific">FONDO</td>
-							<td>17.00 m</td>
+							<td>16.20 m</td>
 						</tr>
 					</table>
-					<span><a href="http://www.puertadepiedra.com/slp/modelos.html" target="_new">VER PLANTAS</a></span>
+					<span><a href="http://www.puertadepiedra.com/celaya/modelos.html" target="_new">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -158,15 +158,15 @@
 	--><section class="columna2">
 		<div class="ficha">
 			<ul>
-				<li><span class="titulo">Ciudad</span><span class="detalle destacar">San Luis Potosí</span></li>
+				<li><span class="titulo">Ciudad</span><span class="detalle destacar">Celaya</span></li>
 				<li><span class="titulo">Teléfono</span><span class="detalle destacar">01 800 726 62 61</span></li>
-				<li><span class="titulo plus">Visita</span><span class="detalle destacar parpadear"><a  href="http://www.puertadepiedra.com/slp/quienes.html" target="_new">www.puertadepiedra.com</a></span></li>
-				<li><span class="titulo">Facebook</span><span class="detalle"><a href="https://www.facebook.com/pages/Puerta-de-Piedra-Residencial-SLP/218649871505761?sk=timeline" target="_new">/Puerta-de-Piedra</a></span></li>
+				<li><span class="titulo plus">Visita</span><span class="detalle destacar parpadear"><a  href="http://www.puertadepiedra.com/celaya/quienes.html" target="_new">www.puertadepiedra.com</a></span></li>
+				<li><span class="titulo">Facebook</span><span class="detalle"><a href="https://www.facebook.com/pages/Puerta-de-Piedra-Celaya/164146783660061?fref=ts" target="_new">/Puerta-de-Piedra</a></span></li>
 				<li><span class="titulo">Twitter</span><span class="detalle"><a href="https://twitter.com/PuertadePiedra" target="_new">@PuertadePiedra</a></span></i>
 			</ul>
 		</div>
 
-		<iframe width="100%" height="300" src="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=es&amp;geocode=&amp;q=puerta+de+piedra+resiedencial&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=61.282355,65.917969&amp;ie=UTF8&amp;hq=puerta+de+piedra+resiedencial&amp;hnear=&amp;t=m&amp;cid=14713627618407015988&amp;ll=22.113235,-100.947104&amp;spn=0.015903,0.023518&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+		<iframe width="100%" height="300" src="http://maps.google.com/maps?f=q&source=embed&hl=es&geocode=&q=puerta+de+piedra,+celaya,+M%C3%A9xico&aq=&sll=37.0625,-95.677068&sspn=53.477264,84.902344&ie=UTF8&hq=puerta+de+piedra,&hnear=Celaya,+Guanajuato,+M%C3%A9xico&t=m&cid=12312899850658208056&ll=20.54215,-100.882301&spn=0.064298,0.09407&z=12&iwloc=A&output=embed"></iframe>
 
 		<div class="contacto">
 

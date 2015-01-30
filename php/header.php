@@ -56,21 +56,41 @@
 
 <nav>
   <menu>
-  	<div class="telefono"><div class="grande">01 800 RANMAN1 <span>(726 62 61)</span></div>
+  	<div class="telefono">
+        <div class="grande inline">01 800 RANMAN1 <span>(726 62 61)</span></div>
 
-  		<a href="#"><span class="fa-stack fa-lg">
+  		<a href="#" class="inline"><span class="fa-stack fa-lg">
 		  <i class="fa fa-circle fa-stack-2x color1"></i>
 		  <i class="fa fa-facebook fa-stack-1x color2"></i>
 		</span></a>
 
-		<a href="#"><span class="fa-stack fa-lg">
+		<a href="#" class="inline"><span class="fa-stack fa-lg">
 		  <i class="fa fa-circle fa-stack-2x color1"></i>
 		  <i class="fa fa-twitter fa-stack-1x color2"></i>
 		</span></a>
   	</div>
     <ul id="menu">
         <li id="home"><a href="#">QUIENES SOMOS</a></li><!--
-        --><li id="acerca"><a href="pp_slp.php">DESARROLLOS</a></li><!--
+        --><li id="acerca"><a href="pp_slp.php">DESARROLLOS</a>
+            <ul>
+                <li class="sub">Media Residencial</li>
+                <li><a href="pp_slp.php">Puerta de Piedra (San Luis Potosí)</a></li>
+                <li><a href="pp_cel.php">Puerta de Piedra (Celaya)</a></li>
+                <li><a href="pp_qro.php">Puerta de Piedra (Querétaro)</a></li>
+                <li><a href="alcazar.php">Alcazar (Aguscalientes)</a></li>
+                <li><a href="pn.php">Puerta Natura (San Luis Potosí)</a></li>
+
+                <li class="sub">Residencial</li>
+                <li><a href="santelmo.php">San Telmo Residencial (Aguascalientes)</a></li>
+
+                <li class="sub">Residencial Plus</li>
+                <li><a href="usa.php">RANMAN USA (Houston)</a></li>
+
+                <li class="sub">Comercial</li>
+                <li><a href="santelmo_plaza.php">San Telmo Plaza (Aguascalientes)</a></li>
+                <li><a href="alttus.php">Alttus (San Luis Potosí)</a></li>
+            </ul>
+        </li><!--
         --><li id="servicios"><a href="#">COMO COMPRAR</a></li><!--
         --><li id="CHAT"><a href="javascript:$zopim.livechat.window.show()">CHAT ONLINE <i class="fa fa-weixin"></i></a></li><!--
         --><li id="contacto"><a href="#">CONTACTO</a></li>

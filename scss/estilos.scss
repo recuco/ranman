@@ -1,6 +1,12 @@
 $gris: #5d5d5d;
 $azul: #3578aa;
 
+*{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
 body{
 	font-family: 'Raleway', sans-serif;
 	margin: 0;
@@ -69,6 +75,11 @@ nav, footer, #contenido, .columna1, .columna2, .columna1 h2, .contacto, form, .c
 }
 /*_______________ /COMUNES ____________________*/
 
+.inline{
+	display: inline-block;
+	vertical-align: middle;
+}
+
 nav{
 	background: #363e44;
 	position: relative;
@@ -121,6 +132,39 @@ nav{
 			li{
 				display: inline-block;
 				vertical-align: top;
+
+				&:hover > ul{
+					display: block;
+				}
+
+				ul{
+					display: none;
+					position: absolute;
+					background: #1b1f22;
+					margin: 0;
+					padding: 0;
+
+					.sub{
+						padding: 10px;
+						background: #31383d;
+						font-size: 14px;
+					}
+
+					li{
+						display: block;
+						border-bottom: #31383d 1px solid;
+
+						a{
+							padding: 10px 15px;
+							margin: 0;
+							font-size: 13px;
+
+							&:hover{
+								background: #08090a url(../images/bg_menu.jpg) bottom;
+							}
+						}
+					}
+				}
 
 				a{
 					color: #fff;
@@ -378,6 +422,7 @@ nav{
 
 				.image_house{
 					width: 30%;
+					padding: 15px;
 
 					img{
 						width: 100%;
@@ -394,6 +439,7 @@ nav{
 					}
 
 					table{
+						margin: 20px 0;
 
 						.especific{
 							font-weight: 700;
