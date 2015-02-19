@@ -58,7 +58,7 @@
 							<td>17.00 m</td>
 						</tr>
 					</table>
-					<span><a href="http://www.puertadepiedra.com/qro/modelos.html" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/florentina.jpg" data-lightbox="uno">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -88,7 +88,7 @@
 							<td>17.00 m</td>
 						</tr>
 					</table>
-					<span><a href="http://www.puertadepiedra.com/qro/modelos.html" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/travertina.jpg" data-lightbox="dos">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -118,7 +118,7 @@
 							<td>17.00 m</td>
 						</tr>
 					</table>
-					<span><a href="http://www.puertadepiedra.com/qro/modelos.html" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/marmolina.jpg" data-lightbox="tres">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -148,7 +148,7 @@
 							<td>15.00 m</td>
 						</tr>
 					</table>
-					<span><a href="http://www.puertadepiedra.com/qro/modelos.html" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/obsidiana.jpg" data-lightbox="cuatro">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -178,7 +178,7 @@
 							<td>15.00 m</td>
 						</tr>
 					</table>
-					<span><a href="http://www.puertadepiedra.com/qro/modelos.html" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/palatina.jpg" data-lightbox="cinco">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>

@@ -7,13 +7,15 @@
 <link href="css/normalize.css" rel="stylesheet" type="text/css" />
 <link href="css/estilos.css" rel="stylesheet" type="text/css" />
 <link href="css/rslide.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="css/lightbox.css">
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 <link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 <meta name = "viewport" content = "width = device-width; initial-scale = 1.0; user-scalable = no; maximum-scale=1.0" >
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script src="js/modernizr.js"></script>
 <script src="js/picturefill.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="js/lightbox.js"></script>
 <script src="js/responsiveslides.min.js"></script>
 <script type="text/javascript" src="js/html5lightbox.js"></script>
 <script type="text/javascript" charset="utf-8">

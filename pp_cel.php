@@ -57,7 +57,7 @@
 							<td>16.20 m</td>
 						</tr>
 					</table>
-					<span><a href="http://www.puertadepiedra.com/celaya/modelos.html" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/onix.jpg" data-lightbox="uno">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -87,7 +87,7 @@
 							<td>16.20 m</td>
 						</tr>
 					</table>
-					<span><a href="http://www.puertadepiedra.com/celaya/modelos.html" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/granito.jpg" data-lightbox="dos">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -117,7 +117,7 @@
 							<td>16.25 m</td>
 						</tr>
 					</table>
-					<span><a href="http://www.puertadepiedra.com/celaya/modelos.html" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/cantera.jpg" data-lightbox="tres">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -147,7 +147,7 @@
 							<td>16.20 m</td>
 						</tr>
 					</table>
-					<span><a href="http://www.puertadepiedra.com/celaya/modelos.html" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/marmol.jpg" data-lightbox="cuatro">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>

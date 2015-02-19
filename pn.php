@@ -59,7 +59,7 @@
 							<td>15 m</td>
 						</tr>
 					</table>
-					<span><a href="http://puertanatura.mx/modelos.php" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/duna.jpg" data-lightbox="uno">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -89,7 +89,7 @@
 						</tr>
 	
 					</table>
-					<span><a href="http://puertanatura.mx/modelos.php" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/arrecife.jpg" data-lightbox="dos">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -118,7 +118,7 @@
 							<td>17 m</td>
 						</tr>
 					</table>
-					<span><a href="http://puertanatura.mx/modelos.php" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/castana.jpg" data-lightbox="tres">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -147,7 +147,7 @@
 							<td>15 m</td>
 						</tr>
 					</table>
-					<span><a href="http://puertanatura.mx/modelos.php" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/acacia.jpg" data-lightbox="cuatro">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -176,7 +176,7 @@
 							<td>15 m</td>
 						</tr>
 					</table>
-					<span><a href="http://puertanatura.mx/modelos.php" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/ceiba.jpg" data-lightbox="cinco">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -205,7 +205,7 @@
 							<td>15 m</td>
 						</tr>
 					</table>
-					<span><a href="http://puertanatura.mx/modelos.php" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/caoba.jpg" data-lightbox="seis">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>

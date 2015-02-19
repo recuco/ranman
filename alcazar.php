@@ -49,7 +49,7 @@
 							<td>134.36 m2</td>
 						</tr>
 					</table>
-					<span><a href="http://www.residencialalcazar.com/modelos.html#image-1" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/asturias.jpg" data-lightbox="uno">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -72,7 +72,7 @@
 						</tr>
 	
 					</table>
-					<span><a href="http://www.residencialalcazar.com/modelos.html#image-1" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/ibiza.jpg" data-lightbox="dos">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -94,7 +94,7 @@
 							<td>93.63 m2</td>
 						</tr>
 					</table>
-					<span><a href="http://www.residencialalcazar.com/modelos.html#image-1" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/castilla.jpg" data-lightbox="tres">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
@@ -116,7 +116,7 @@
 							<td>102 m2</td>
 						</tr>
 					</table>
-					<span><a href="http://www.residencialalcazar.com/modelos.html#image-1" target="_new">VER PLANTAS</a></span>
+					<span><a href="images/plantas/cadiz.jpg" data-lightbox="cuatro">VER PLANTAS</a></span>
 				</div>
 			</li>
 		</ul>
